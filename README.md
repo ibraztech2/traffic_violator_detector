@@ -29,5 +29,17 @@ Nigeria suffers thousands of preventable road crashes annually due to poor enfor
 
 ---
 
-## 📦 Project Structure
-<img width="329" height="218" alt="image" src="https://github.com/user-attachments/assets/5f3f0df9-8464-446d-b484-9dc071e9d6ca" />
+## 👨‍💻 About the Author
+- 👋 Ibrahim Mustapha
+- 🎓 Mechatronics Engineering Student
+- 🤖 Computer Vision & AI Enthusiast
+- 🌱 Passionate about robotics, machine learning, and building solutions that impact lives.
+
+---
+
+## ✨ My Mission
+To empower Nigeria’s road safety agencies with AI tools that help:
+  - Enforce traffic compliance 🚦
+  - Reduce accidents 🚑
+  - Save lives ❤️
+  - `        VisionMarshal  – watch Detect and Protect.`
